@@ -99,7 +99,6 @@ export default {
                   shadowColor: 'rgba(0, 0, 0, 0.5)',
                 },
                 lineStyle: {
-                  //color: '#fff',
                   width: 1,
                   curveness: 0.5,
                   shadowBlur: 200,
